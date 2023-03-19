@@ -1,0 +1,32 @@
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\appsettings.json
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Meeting Manager.exe
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Meeting Manager.deps.json
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Meeting Manager.runtimeconfig.json
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Meeting Manager.dll
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Meeting Manager.pdb
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Petar\source\repos\Meeting Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.csproj.AssemblyReference.cache
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.AssemblyInfo.cs
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets\msbuild.Meeting Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets\msbuild.build.Meeting Manager.props
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Meeting Manager.props
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Meeting Manager.props
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\scopedcss\bundle\Meeting Manager.styles.css
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.csproj.CopyComplete
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.dll
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\refint\Meeting Manager.dll
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.pdb
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\Meeting Manager.genruntimeconfig.cache
+C:\Users\Petar\source\repos\Meeting Manager\obj\Debug\net6.0\ref\Meeting Manager.dll
